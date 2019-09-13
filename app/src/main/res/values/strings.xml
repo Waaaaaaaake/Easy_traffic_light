@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Easy_traffic_light</string>
+    <string name="first">Red</string>
+    <string name="second">Yellow</string>
+    <string name="third">Green</string>
+
+</resources>
